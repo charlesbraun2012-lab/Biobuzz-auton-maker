@@ -1,9 +1,11 @@
 BioSim
 
 
+
 A browser based FTC auto maker that exports JAVA code.
 
 This is already deployed at: https://charlesbraun2012-lab.github.io/Biobuzz-auton-maker/
+
 
 
 Features:
@@ -28,6 +30,7 @@ Features:
 9)Dark and light themes, with autos saved in your browser
 
 
+
 Notes:
 
 1)The AI prompt box only works inside claude.ai. Everything else works anywhere.
@@ -35,6 +38,8 @@ Notes:
 2)It is a simulation, so tune the exported Java on your real robot.
 
 3)Saved autos stay in each person's browser. Use export and import to share them.
+
+
 
 Made with <3 By:
 
